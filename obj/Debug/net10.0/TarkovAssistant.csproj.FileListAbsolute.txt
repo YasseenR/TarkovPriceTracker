@@ -1,0 +1,14 @@
+C:\Users\Eggsf\Documents\TarkovAssistant\TarkovAssistant\bin\Debug\net10.0\TarkovAssistant.exe
+C:\Users\Eggsf\Documents\TarkovAssistant\TarkovAssistant\bin\Debug\net10.0\TarkovAssistant.deps.json
+C:\Users\Eggsf\Documents\TarkovAssistant\TarkovAssistant\bin\Debug\net10.0\TarkovAssistant.runtimeconfig.json
+C:\Users\Eggsf\Documents\TarkovAssistant\TarkovAssistant\bin\Debug\net10.0\TarkovAssistant.dll
+C:\Users\Eggsf\Documents\TarkovAssistant\TarkovAssistant\bin\Debug\net10.0\TarkovAssistant.pdb
+C:\Users\Eggsf\Documents\TarkovAssistant\TarkovAssistant\obj\Debug\net10.0\TarkovAssistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eggsf\Documents\TarkovAssistant\TarkovAssistant\obj\Debug\net10.0\TarkovAssistant.AssemblyInfoInputs.cache
+C:\Users\Eggsf\Documents\TarkovAssistant\TarkovAssistant\obj\Debug\net10.0\TarkovAssistant.AssemblyInfo.cs
+C:\Users\Eggsf\Documents\TarkovAssistant\TarkovAssistant\obj\Debug\net10.0\TarkovAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Eggsf\Documents\TarkovAssistant\TarkovAssistant\obj\Debug\net10.0\TarkovAssistant.dll
+C:\Users\Eggsf\Documents\TarkovAssistant\TarkovAssistant\obj\Debug\net10.0\refint\TarkovAssistant.dll
+C:\Users\Eggsf\Documents\TarkovAssistant\TarkovAssistant\obj\Debug\net10.0\TarkovAssistant.pdb
+C:\Users\Eggsf\Documents\TarkovAssistant\TarkovAssistant\obj\Debug\net10.0\TarkovAssistant.genruntimeconfig.cache
+C:\Users\Eggsf\Documents\TarkovAssistant\TarkovAssistant\obj\Debug\net10.0\ref\TarkovAssistant.dll
