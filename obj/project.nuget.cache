@@ -1,8 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "oRltfDRwu0E=",
+  "dgSpecHash": "VtStjFmaHgY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Eggsf\\Documents\\TarkovAssistant\\TarkovAssistant\\TarkovAssistant.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Eggsf\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Eggsf\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Eggsf\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512",
+    "C:\\Users\\Eggsf\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Eggsf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Eggsf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Eggsf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "TarkovAssistant depends on Tesseract (>= 5.0.0.20180808) but Tesseract 5.0.0.20180808 was not found. Tesseract 5.2.0 was resolved instead.",
+      "projectPath": "C:\\Users\\Eggsf\\Documents\\TarkovAssistant\\TarkovAssistant\\TarkovAssistant.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Eggsf\\Documents\\TarkovAssistant\\TarkovAssistant\\TarkovAssistant.csproj",
+      "libraryId": "Tesseract",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
 }
